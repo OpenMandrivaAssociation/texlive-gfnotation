@@ -1,6 +1,6 @@
 Name:		texlive-gfnotation
 Version:	37156
-Release:	1
+Release:	2
 Summary:	Typeset Gottlob Frege's notation in plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gfnotation
